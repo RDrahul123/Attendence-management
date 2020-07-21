@@ -336,7 +336,7 @@ using namespace std;
 	cputs("PLEASE WAIT.........");
 	textcolor(RED+GREEN);
 	delay(500);
-			// TO PURCHASE ,SEARCH ,MODIFY ,DELETE ,DISPLAY ALL RECORDS ,DETAILS ,NEW CUSTOMER
+		// TO PURCHASE ,SEARCH ,MODIFY ,DELETE ,DISPLAY ALL RECORDS ,DETAILS ,NEW CUSTOMER
  
 		again:;
 		clrscr();
@@ -996,7 +996,7 @@ using namespace std;
 		cout<<"\n\n\n";
 		clrscr();
 		cash:;
-		cout<<"\n\n\n\n\n\n\t\t\t\t S.T.A.R COMPUTERS\n";
+		cout<<"\n\n\n\n\n\n\t\t\t\t APPLE COMPUTERS\n";
 		cout<<"\n\n\t\t\t\t    CASH MEMO\n";
 		cout<<"\n\n\n\n\n\n\n\n";
  
@@ -1084,7 +1084,7 @@ using namespace std;
 		cout<<"\t\t  #   TAKE YOUR SMART CARD WITH YOU.                             \n";
 		cout<<"\t\t  #   COLLECT YOUR SMART CARD & BILL AFTER PAYMENT.              \n";
 		cout<<"\t\t  #   DO NOT BREAK ANY SHOP ITEMS.                               \n";
-		cout<<"\t\t  #   FOR ANY COMPLAINT CONTACT THE CHAIR PERSON.                \n";
+		cout<<"\t\t  #   FOR ANY COMPLAINT CONTACT             \n";
 		cout<<"\t\t  #   Email :- www.apple_computers.com                            \n";
 		cout<<"\n\t%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n\n";
 		getch();
@@ -1180,7 +1180,7 @@ using namespace std;
  
 		//TO EXIT FROM THE PROGRAM
 		clrscr();
-		cout<<"\n\n\n\t\tARE YOU SURE TO EXIT FROM THE PROGRAM\t\n\t\tEnter y for YES\n\t\tEnter n for NO\n\t\t";
+		cout<<"\n\n\n\t\t ARE YOU SURE TO EXIT FROM THE PROGRAM\t\n\t\tEnter y for YES\n\t\tEnter n for NO\n\t\t";
 		cin>>et;
 		if(et=='y')
 		{
