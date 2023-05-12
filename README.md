@@ -1,4 +1,4 @@
-# myown
+# Cpp_projects
 These are my few C++ projects with source code.
 1. Computer shop management
 2. Attendence manager
