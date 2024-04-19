@@ -20,7 +20,7 @@ Attendance Management System is a simple C++ console application designed to man
 ## How to Use
 
 1. Clone the repository to your local machine:
-git clone https://github.com/your_username/attendance-management-system.git
+git clone https://github.com/Rdrahul123/attendance-management-system.git
 
 2. Compile the source code using a C++ compiler.
 
