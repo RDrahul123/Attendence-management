@@ -55,8 +55,8 @@ while(1)
 system("cls");
 cout<<"\n 1 Register a Student";
 cout<<"\n 2 Delete All students name registered";
-cout<<"\n 3 Delete student by rollno";
-cout<<"\n 4 Check List of Student registered by userame";
+cout<<"\n 3 Delete student by Roll number";
+cout<<"\n 4 Check List of Student registered by username";
 cout<<"\n 5 Check presense count of any student by Roll No";
 cout<<"\n 6 Get List of student with their attendance count";
 cout<<"\n 0. Go Back <- \n";
@@ -120,7 +120,7 @@ if(username=="admin" && password=="admin@2")
 }   
 else
 {
-cout<<"\n Error ! Invalid Credintials..";	
+cout<<"\n Error ! Invalid Credentials..";	
 cout<<"\n Press any key for main menu ";
 getchar();getchar();
 }
